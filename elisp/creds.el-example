@@ -1,0 +1,5 @@
+(setq personal-user "joe")
+(setq personal-passw "password")
+(setq generic-user "flipkey")
+(setq generic-passw "password")
+(provide 'creds)

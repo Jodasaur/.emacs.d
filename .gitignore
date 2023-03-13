@@ -1,0 +1,20 @@
+# use glob syntax.
+syntax: glob
+
+*~
+auto-save-list/*
+bookmarks
+elpa/*
+el-get/*
+eshell/*
+elisp/creds.el
+tramp
+.python-environments/*
+ac-comphist.dat
+ido.last
+session.*
+url/cache/*
+url/cookies
+.hg/*
+.hgignore
+.DS_Store
